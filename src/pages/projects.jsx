@@ -62,15 +62,31 @@ export default function Projects() {
   return (
     <>
       <Head>
-        <title>Projects - Spencer Sharp</title>
+        <title>Projects - Jay Womack</title>
         <meta
           name="description"
-          content="Things I’ve made trying to put my dent in the universe."
+          content="Welcome to my Projects page, where I showcase my expertise in a wide range of cutting-edge web development technologies. I am proficient in utilizing these technologies to create dynamic and engaging web applications. Here are some of the key technologies I specialize in:
+
+React: I am skilled in leveraging the power of React, a popular JavaScript library for building user interfaces. With React, I create interactive components that enhance user experiences and ensure high performance.
+
+HTML & CSS: I have extensive knowledge of HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets) to structure and style web pages. I ensure visually appealing designs and responsive layouts for seamless user interactions.
+
+JavaScript: With expertise in JavaScript, I develop interactive and dynamic web applications. I utilize JavaScript frameworks and libraries to enhance functionality and create engaging user experiences.
+
+Node.js: I harness the power of Node.js, a JavaScript runtime environment, to build scalable and efficient server-side applications. Node.js enables me to develop real-time applications and handle large amounts of concurrent requests.
+
+MongoDB & Mongoose: My proficiency extends to working with MongoDB, a NoSQL database, and Mongoose, an object data modeling (ODM) library for MongoDB. I design robust database schemas and seamlessly integrate them into my web applications.
+
+SQL: I have a strong understanding of SQL (Structured Query Language) and relational databases. I can create efficient database models, write optimized queries, and ensure data integrity.
+
+These are just a few examples of the technologies I excel in. My expertise in web development extends beyond these technologies, allowing me to create bespoke solutions tailored to your specific requirements. I am continuously exploring and adopting the latest advancements in the field to deliver innovative and high-quality projects.
+
+Please take a look at my portfolio to see examples of my work and the diverse range of projects I have successfully delivered using these technologies."
         />
       </Head>
       <SimpleLayout
-        title="Things I’ve made trying to put my dent in the universe."
-        intro="I’ve worked on tons of little projects over the years but these are the ones that I’m most proud of. Many of them are open-source, so if you see something that piques your interest, check out the code and contribute if you have ideas for how it can be improved."
+        title="Some things I have made"
+        intro="I have built a ton of stuff over the years. These projects are specifically selected to showcase my wide range of skills in full stack web development."
       >
         <ul
           role="list"

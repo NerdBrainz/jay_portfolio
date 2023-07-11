@@ -29,15 +29,15 @@ export default function Uses() {
   return (
     <>
       <Head>
-        <title>Uses - Spencer Sharp</title>
+        <title>Tools & Gear - Jay Womack</title>
         <meta
           name="description"
-          content="Software I use, gadgets I love, and other things I recommend."
+          content="Tools I build with and all the junk I collect along the way."
         />
       </Head>
       <SimpleLayout
-        title="Software I use, gadgets I love, and other things I recommend."
-        intro="I get asked a lot about the things I use to build software, stay productive, or buy to fool myself into thinking I’m being productive when I’m really just procrastinating. Here’s a big list of all of my favorite stuff."
+        title="Tools I build with and all the junk I collect along the way."
+        intro="If you ever wondered what it takes to build web apps while you travel... I have it mostly figured out. Here some things I have and some I would suggest."
       >
         <div className="space-y-20">
           <ToolsSection title="Workstation">
