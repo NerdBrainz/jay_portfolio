@@ -1,43 +1,83 @@
-# Spotlight
+# Jay Womack
 
-Spotlight is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
+## Contact Information
 
-## Getting started
+- Location: Saigon, Vietnam (For Now)
+- Phone: (509) 217-2823
+- Email: jaredjameswomack@gmail.com
 
-To get started with this template, first install the npm dependencies:
+## Portfolio
 
-```bash
-npm install
-```
+- [GitHub Repository](https://github.com/NerdBrainz/jay_portfolio)
+- [LinkedIn](https://www.linkedin.com/in/jay-womack/)
 
-Next, create a `.env.local` file in the root of your project and set the `NEXT_PUBLIC_SITE_URL` variable to your site's public URL:
+## Employment
 
-```
-NEXT_PUBLIC_SITE_URL=https://example.com
-```
+### Full Stack Developer
 
-Next, run the development server:
+**NerdBrainz LLC** | 2020 - Present
 
-```bash
-npm run dev
-```
+- Developed features for web applications using NextJS, TailwindCSS, REST APIs, JSON, Prisma, Next-Auth, and Postgresql. Implemented Google Auth for login functionality.
+- Created accessible landing pages using NextJS, React, Tailwind, CSS3, and Sass, achieving perfect or near-perfect Lighthouse scores.
+- Built a JSON Data API with Express, Prisma, and Postgresql database deployed to Digital Ocean. Developed a calculator to help powerlifters assess their strength levels in the sport of powerlifting, utilizing React hooks and consuming the API.
+- Constructed customer marketing sites with React, NextJS, Tailwind, CSS3, Node, and Express, enhancing market access for clients and adhering to industry standards.
+- Developed and maintained web applications for small and medium-sized businesses using Next.js, React, HTML, CSS, JavaScript, Node.js, Express, Sequelize, Prisma, PostgreSQL, MongoDB, Mongoose, and SQL.
+- Implemented accessible designs and optimized for SEO, resulting in high Lighthouse page scores.
+- Collaborated with design and development teams to meet project requirements and deadlines.
+- Utilized Git for version control and followed Agile development methodologies.
 
-Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
+### Pipeline Steward
 
-## Customizing
+**Laborer International Union Of North America** | 2017 - 2019
 
-You can start editing this template by modifying the files in the `/src` folder. The site will auto-update as you edit these files.
+- Ensured safe and compliant construction work on pipeline projects, including monitoring job sites, enforcing safety rules, and mediating disputes between workers and employers.
+- Coordinated training and certification of workers, and assisted with the negotiation and enforcement of collective bargaining agreements.
 
-## License
+## Technical Experience
 
-This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license).
+- Proficient in using Next.js to build server-rendered React applications and improve performance and SEO.
+- Experience using React for building reusable UI components and managing application state with Redux.
+- Strong knowledge of HTML, CSS, and JavaScript, including familiarity with CSS preprocessors such as SASS and LESS.
+- Experience using Node.js and Express to build server-side applications and handle user authentication and authorization.
+- Strong understanding of SQL and experience using Sequelize and Prisma as ORMs for PostgreSQL and MongoDB databases respectively.
+- Experience using Mongoose for modeling and querying MongoDB data.
+- Knowledge of web development best practices and experience with Agile development methodologies.
+- Experience with version control using Git and working in a collaborative development environment.
+- Built accessible web applications and optimized for SEO, achieving high Lighthouse page scores.
+- Familiar with web performance optimization techniques to improve load time and overall user experience.
 
-## Learn more
+## Additional Experience and Awards
 
-To learn more about the technologies used in this site template, see the following resources:
+- **Front End Web Development Tutor** (2022 - Present): Tutoring students in a multitude of technologies including Node.js, React.js, Express, HTML, CSS, SCSS, Bootstrap 5, Tailwind, Material UI, SEO, accessibility, and web fundamentals.
+- **Micro Credentials**: Business Essentials 2020, Applied Business Skills 2020, Management 2020, Human Resources Management 2020, Data Preparation 2021.
 
-- [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
-- [Next.js](https://nextjs.org/docs) - the official Next.js documentation
-- [Headless UI](https://headlessui.dev) - the official Headless UI documentation
-- [MDX](https://mdxjs.com) - the MDX documentation
-# jay_portfolio
+## Languages and Technologies
+
+JavaScript, SQL, HTML, SCSS, Python (beginner/mid-level), React, Next.js, MongoDB, MySQL, PostgreSQL, Sass, Express.js, Git, Sequelize, Prisma, NPM, REST, Node.js, Prisma.
+
+## Education
+
+**Western Governors University** | Spokane, WA | Fall 2019 - May 2022
+
+- Master of Science, Information Technology Management
+- Bachelor of Science, Business Administration, Information Technology Management
+
+### Graduate Coursework
+
+- IT Project Management
+- IT Strategy and Governance
+- Information Systems Analysis and Design
+- Data Management and Analytics
+- Enterprise Resource Planning
+- IT Service Management
+- Business Intelligence and Data Warehousing
+
+### Undergraduate Coursework
+
+- IT Management
+- Business Information Systems
+- Database Systems
+- Business Process Management
+- E-Business and E-Commerce
+- Operations Management
+- Strategic Management
